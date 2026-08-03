@@ -305,7 +305,7 @@ var simplemaps_namap_mapdata={
     },
     "3": {
       name: "West Virginia State Firemen's Association (WVSFA) Convention",
-      color: "#3cb54a",
+      color: "#f99c1c",
       lat: 39.299892,
       lng: -77.84185,
       eventType: "Conference",
@@ -316,7 +316,7 @@ var simplemaps_namap_mapdata={
     },
     "4": {
       name: "Firefighters Association of the State of New York (FASNY) Annual Convention",
-      color: "#3cb54a",
+      color: "#f99c1c",
       lat: 42.261948,
       lng: -78.662626,
       eventType: "Conference",
@@ -327,7 +327,7 @@ var simplemaps_namap_mapdata={
     },
     "5": {
       name: "Indiana Fire Investigation Conference",
-      color: "#3cb54a",
+      color: "#f99c1c",
       lat: 39.764656,
       lng: -86.489867,
       eventType: "Conference",
