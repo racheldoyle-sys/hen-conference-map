@@ -1111,17 +1111,6 @@ var simplemaps_namap_mapdata={
       startDate: "2026-12-05",
       endDate: "2026-12-05",
       state: "ND"
-    },
-    "80": {
-      name: "Maine Fire Chiefs' Association (MFCA) Professional Development Conference",
-      color: "#3cb54a",
-      lat: 44.468409,
-      lng: -70.877411,
-      eventType: "Conference",
-      startDate: "2027-03-23",
-      endDate: "2027-03-25",
-      state: "ME",
-      url: "https://www.mainefirechiefs.com/save-the-date-2026-professional-development-conference"
     }
   },
   labels: {
