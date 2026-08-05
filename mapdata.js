@@ -271,19 +271,8 @@ var simplemaps_namap_mapdata={
   },
   locations: {
     "0": {
-      name: "Tennessee Fire Chiefs Association Annual Conference",
-      color: "#3076bc",
-      lat: 35.863081,
-      lng: -86.448666,
-      eventType: "Conference",
-      startDate: "2026-07-30",
-      endDate: "2026-08-03",
-      state: "TN",
-      url: "https://www.tnfirechiefs.com/conferences"
-    },
-    "1": {
       name: "Alabama Association of Fire Chiefs (AAFC) 2026 Annual Conference",
-      color: "#3076bc",
+      color: "#3cb54a",
       lat: 30.273649,
       lng: -87.561467,
       eventType: "Conference",
@@ -292,18 +281,7 @@ var simplemaps_namap_mapdata={
       state: "AL",
       url: "https://www.alfirechiefs.com/index.php?option=com_jevents&task=icalrepeat.detail&evid=13&Itemid=115&year=2026&month=08&day=02&title=2026-annual-conference-perdido-beach-resort&uid=25acb66d6e8fe38afcd919eaedacbdb2"
     },
-    "2": {
-      name: "Louisiana State Firemen's Association (LSFA) Conference",
-      color: "#3076bc",
-      lat: 30.421278,
-      lng: -91.136135,
-      eventType: "Conference",
-      startDate: "2026-08-03",
-      endDate: "2026-08-03",
-      state: "LA",
-      url: "https://members.lsfa.net/events/121st-Annual-LSFA-Conference-Early-Registration-2115/details?fbclid=IwY2xjawSCxdxleHRuA2FlbQIxMQBicmlkETF2RlNVU0V5cWVCN0h0UnB5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqUCTK4bHoro4JstmnQuPnYLsGa51D9aPeBuHp1WAabdLtOPozAVBNuRB-Sx_aem_t3lETKikoI8NnvnRI4xe-A"
-    },
-    "3": {
+    "1": {
       name: "West Virginia State Firemen's Association (WVSFA) Convention",
       color: "#f99c1c",
       lat: 39.299892,
@@ -314,7 +292,7 @@ var simplemaps_namap_mapdata={
       state: "WV",
       url: "https://www.wvsfa.org/"
     },
-    "4": {
+    "2": {
       name: "Firefighters Association of the State of New York (FASNY) Annual Convention",
       color: "#f99c1c",
       lat: 42.261948,
@@ -325,7 +303,7 @@ var simplemaps_namap_mapdata={
       state: "NY",
       url: "https://fasnyconvention.com/"
     },
-    "5": {
+    "3": {
       name: "Indiana Fire Investigation Conference",
       color: "#f99c1c",
       lat: 39.764656,
@@ -336,7 +314,7 @@ var simplemaps_namap_mapdata={
       state: "IN",
       url: "https://iniaai.org/conference/"
     },
-    "6": {
+    "4": {
       name: "Fire-Rescue International (FRI)",
       color: "#3076bc",
       lat: 39.098253,
@@ -347,7 +325,7 @@ var simplemaps_namap_mapdata={
       state: "MO",
       url: "https://www.iafc.org/events/fri/fri26"
     },
-    "7": {
+    "5": {
       name: "Jimmy Ellis Training Weekend",
       color: "#3076bc",
       lat: 40.684558,
@@ -358,7 +336,7 @@ var simplemaps_namap_mapdata={
       state: "PA",
       url: "https://www.facebook.com/p/Jimmy-Ellis-Training-Weekend-61564709192019/"
     },
-    "8": {
+    "6": {
       name: "(SAFRE) South Atlantic Fire Rescue Expo",
       color: "#3076bc",
       lat: 35.773799,
@@ -369,7 +347,7 @@ var simplemaps_namap_mapdata={
       state: "NC",
       url: "https://www.southatlanticfirerescueexpo.com/"
     },
-    "9": {
+    "7": {
       name: "Derby City Fire Conference",
       color: "#3076bc",
       lat: 38.224645,
@@ -380,7 +358,7 @@ var simplemaps_namap_mapdata={
       state: "KY",
       url: "https://www.facebook.com/p/Derby-City-Fire-Conference-61579596745921/"
     },
-    "10": {
+    "8": {
       name: "Arizona Fire School",
       color: "#3cb54a",
       lat: 33.419494,
@@ -391,7 +369,7 @@ var simplemaps_namap_mapdata={
       state: "AZ",
       url: "https://azfiretraining.org/fire-school/"
     },
-    "11": {
+    "9": {
       name: "Indiana Fire and EMS Leadership Conference",
       color: "#3cb54a",
       lat: 39.992986,
@@ -402,7 +380,7 @@ var simplemaps_namap_mapdata={
       state: "IN",
       url: "https://indfirechiefs.org/page/EVENTS"
     },
-    "12": {
+    "10": {
       name: "United Fire Firefighter of the Year Award Ceremony",
       color: "#3076bc",
       lat: 33.419494,
@@ -412,7 +390,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-09-09",
       state: "AZ"
     },
-    "13": {
+    "11": {
       name: "Labette Community College (LCC) Fire School",
       color: "#3076bc",
       lat: 37.339099,
@@ -423,7 +401,7 @@ var simplemaps_namap_mapdata={
       state: "KS",
       url: "https://docs.google.com/forms/d/e/1FAIpQLSe8dRUV6Zy4qXpR3AGYKZGXw9FA-HtQxKE7672x9FlCqV-ndg/viewform"
     },
-    "14": {
+    "12": {
       name: "Northern H.E.A.T Conference",
       color: "#3cb54a",
       lat: 56.234167,
@@ -433,7 +411,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-09-13",
       state: "AB"
     },
-    "15": {
+    "13": {
       name: "FireCon - Ontario Association of Fire Chiefs Conference",
       color: "#3076bc",
       lat: 48.379506,
@@ -444,7 +422,7 @@ var simplemaps_namap_mapdata={
       state: "ON",
       url: "https://www.oafc.on.ca/overview"
     },
-    "16": {
+    "14": {
       name: "F.O.O.L.S. International Convention",
       color: "#3076bc",
       lat: 38.702352,
@@ -455,7 +433,7 @@ var simplemaps_namap_mapdata={
       state: "MO",
       url: "https://www.foolsinternational.com/convention-2023"
     },
-    "17": {
+    "15": {
       name: "Fire Show West Conference & Expo",
       color: "#3cb54a",
       lat: 39.523041,
@@ -466,7 +444,7 @@ var simplemaps_namap_mapdata={
       state: "NV",
       url: "https://www.fireshowswest.com/exhibitor-information"
     },
-    "18": {
+    "16": {
       name: "Virginia HazMat Conference",
       color: "#3076bc",
       lat: 36.803478,
@@ -477,7 +455,7 @@ var simplemaps_namap_mapdata={
       state: "VA",
       url: "https://www.virginiahazmat.org/annual-conference"
     },
-    "19": {
+    "17": {
       name: "New Jersey Fire Expo",
       color: "#3076bc",
       lat: 38.981295,
@@ -488,7 +466,7 @@ var simplemaps_namap_mapdata={
       state: "NJ",
       url: "https://www.njfireexpo.com/copy-of-vendor-info"
     },
-    "20": {
+    "18": {
       name: "Fire-Rescue Canada Conference and Trade Show",
       color: "#3cb54a",
       lat: 49.280153,
@@ -499,7 +477,7 @@ var simplemaps_namap_mapdata={
       state: "BC",
       url: "https://docs.google.com/document/d/1wN23Pp26kkcXkNKhgcGKK9fLi2GTPUh-/edit"
     },
-    "21": {
+    "19": {
       name: "Michigan Firemens Memorial Festival",
       color: "#3cb54a",
       lat: 44.496843,
@@ -510,7 +488,7 @@ var simplemaps_namap_mapdata={
       state: "MI",
       url: "https://www.firemensmemorial.com/"
     },
-    "22": {
+    "20": {
       name: "Red River Fire Expo (Redline)",
       color: "#3076bc",
       lat: 33.956645,
@@ -520,7 +498,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-09-18",
       state: "OK"
     },
-    "23": {
+    "21": {
       name: "Minnesota State Fire Department Association (MSFDA) Conference",
       color: "#3076bc",
       lat: 46.589768,
@@ -531,7 +509,7 @@ var simplemaps_namap_mapdata={
       state: "MN",
       url: "https://www.msfda.org/annual-conference"
     },
-    "24": {
+    "22": {
       name: "Southside Virginia Volunteer Firefighters Association (SVVFA) Regional School Expo",
       color: "#3076bc",
       lat: 36.725196,
@@ -541,7 +519,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-09-18",
       state: "VA"
     },
-    "25": {
+    "23": {
       name: "South Carolina State Association of Fire Chiefs (SCSAFC) - Annual Fire Leadership Conference",
       color: "#3076bc",
       lat: 33.766993,
@@ -552,7 +530,7 @@ var simplemaps_namap_mapdata={
       state: "SC",
       url: "https://scfirechiefs.com/fire-leadership-vendor/sponsor"
     },
-    "26": {
+    "24": {
       name: "Airport Rescue & Firefighting Working Group (ARFFWG) Annual Educational Symposium",
       color: "#3076bc",
       lat: 35.041717,
@@ -563,7 +541,7 @@ var simplemaps_namap_mapdata={
       state: "TN",
       url: "https://members.arffwg.org/calendar/Details/2026-arffwg-annual-educational-sympsoium-1444303?sourceTypeId=Website"
     },
-    "27": {
+    "25": {
       name: "New Mexico Fire Service Conference",
       color: "#3cb54a",
       lat: 33.354066,
@@ -573,7 +551,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-09-26",
       state: "NM"
     },
-    "28": {
+    "26": {
       name: "St. Clair Monroe County IL Chiefs Assoc Dealer Showcase",
       color: "#3cb54a",
       lat: 38.645599,
@@ -584,7 +562,7 @@ var simplemaps_namap_mapdata={
       state: "IL",
       url: "https://stclaircofirechiefs.org/2026-meetings.html"
     },
-    "29": {
+    "27": {
       name: "Wisconsin Emergency Managers Association (WEMA) Conference",
       color: "#f99c1c",
       lat: 44.526153,
@@ -595,7 +573,7 @@ var simplemaps_namap_mapdata={
       state: "WI",
       url: "https://wema.mybigcommerce.com/"
     },
-    "30": {
+    "28": {
       name: "That D.A.M. FOOLS Fire Conference",
       color: "#3cb54a",
       lat: 41.705025,
@@ -606,7 +584,7 @@ var simplemaps_namap_mapdata={
       state: "IA",
       url: "https://thedamfools.com/conference"
     },
-    "31": {
+    "29": {
       name: "Newfoundland and Labrador (NL) Association of Fire Service Convention",
       color: "#3cb54a",
       lat: 47.558211,
@@ -617,7 +595,7 @@ var simplemaps_namap_mapdata={
       state: "NL",
       url: "https://nlfireservices.com/convention-2026/"
     },
-    "32": {
+    "30": {
       name: "MABAS Wisconsin Conference",
       color: "#f99c1c",
       lat: 44.525909,
@@ -628,7 +606,7 @@ var simplemaps_namap_mapdata={
       state: "WI",
       url: "https://mabas-wi.org/mabas-wi-conference-info.php"
     },
-    "33": {
+    "31": {
       name: "Heart of the Lakes Fire Summit (FireNuggets)",
       color: "#3076bc",
       lat: 45.842345,
@@ -639,7 +617,7 @@ var simplemaps_namap_mapdata={
       state: "MN",
       url: "https://www.firenuggets.com/classes/heart-of-the-lakes-fire-summit"
     },
-    "34": {
+    "32": {
       name: "York County Chiefs Fall Fire/EMS School & Trade Show",
       color: "#3cb54a",
       lat: 40.015915,
@@ -650,7 +628,7 @@ var simplemaps_namap_mapdata={
       state: "PA",
       url: "https://www.yorkcountymaine.gov/rtc/fire-rescue"
     },
-    "35": {
+    "33": {
       name: "Georgia State Firefighters Association (GSFA) Georgia Fire Service Conference",
       color: "#3cb54a",
       lat: 33.478625,
@@ -661,7 +639,7 @@ var simplemaps_namap_mapdata={
       state: "GA",
       url: "https://www.gsffa.org/annual-conference"
     },
-    "36": {
+    "34": {
       name: "Fort Lauderdale Fire Training Expo",
       color: "#3076bc",
       lat: 26.205101,
@@ -672,7 +650,7 @@ var simplemaps_namap_mapdata={
       state: "FL",
       url: "https://www.fortlauderdalefireexpo.com/events/"
     },
-    "37": {
+    "35": {
       name: "Arkansas Rural Fire Show",
       color: "#3cb54a",
       lat: 35.088292,
@@ -682,7 +660,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-03",
       state: "AR"
     },
-    "38": {
+    "36": {
       name: "Mile High Fire Conference",
       color: "#3cb54a",
       lat: 39.628949,
@@ -692,7 +670,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-05",
       state: "CO"
     },
-    "39": {
+    "37": {
       name: "The FDNY High-Rise Symposium",
       color: "#3cb54a",
       lat: 40.752656,
@@ -702,7 +680,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-04",
       state: "NY"
     },
-    "40": {
+    "38": {
       name: "LAAFCA (Los Angeles Area Fire Chiefs Association Desert Conference",
       color: "#3cb54a",
       lat: 33.757699,
@@ -712,7 +690,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-09",
       state: "CA"
     },
-    "41": {
+    "39": {
       name: "Connecticut Fire Department Instructors Association (CFDIA) Annual Awards Dinner",
       color: "#3cb54a",
       lat: 41.631903,
@@ -722,7 +700,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-06",
       state: "CT"
     },
-    "42": {
+    "40": {
       name: "Montana Fire Service Convention",
       color: "#3cb54a",
       lat: 45.954369,
@@ -732,7 +710,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-11",
       state: "MT"
     },
-    "43": {
+    "41": {
       name: "New Mexico Fire & EMS Expo",
       color: "#3076bc",
       lat: 34.056193,
@@ -743,7 +721,7 @@ var simplemaps_namap_mapdata={
       state: "NM",
       url: "https://nmemta.org/fire-and-ems-expo/"
     },
-    "44": {
+    "42": {
       name: "Illinois Fire Chiefs Association Conference",
       color: "#3cb54a",
       lat: 40.6939,
@@ -753,7 +731,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-13",
       state: "IL"
     },
-    "45": {
+    "43": {
       name: "Wichita HOT Classes",
       color: "#3cb54a",
       lat: 37.67836,
@@ -763,7 +741,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-12",
       state: "KS"
     },
-    "46": {
+    "44": {
       name: "Reading Fire Conference",
       color: "#3076bc",
       lat: 40.30864,
@@ -774,7 +752,7 @@ var simplemaps_namap_mapdata={
       state: "PA",
       url: "https://www.facebook.com/people/Reading-Fire-Conference/61577732687898/"
     },
-    "47": {
+    "45": {
       name: "IFCA Annual Conference",
       color: "#3cb54a",
       lat: 40.692291,
@@ -784,7 +762,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-14",
       state: "IL"
     },
-    "48": {
+    "46": {
       name: "Michigan Association of Fire Chiefs (MAFC) Midwest Fire Expo",
       color: "#3076bc",
       lat: 42.488688,
@@ -795,7 +773,7 @@ var simplemaps_namap_mapdata={
       state: "MI",
       url: "https://www.michiefs.org/Expo"
     },
-    "49": {
+    "47": {
       name: "Small Town Jobtown Fire Conference",
       color: "#3076bc",
       lat: 30.482987,
@@ -806,7 +784,7 @@ var simplemaps_namap_mapdata={
       state: "LA",
       url: "https://www.eventbrite.com/e/small-town-jobtown-fire-conference-2026-tickets-1979169080999"
     },
-    "50": {
+    "48": {
       name: "Alberta Fire Chief's Training Conference",
       color: "#3076bc",
       lat: 49.692227,
@@ -817,7 +795,7 @@ var simplemaps_namap_mapdata={
       state: "AB",
       url: "https://www.abfiretraining.org/"
     },
-    "51": {
+    "49": {
       name: "Minnesota State Fire Chiefs Association (MSFCA) 2026 Annual Conference",
       color: "#3076bc",
       lat: 46.781505,
@@ -827,7 +805,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-14",
       state: "MN"
     },
-    "52": {
+    "50": {
       name: "2026 HOTZONE Conference",
       color: "#3cb54a",
       lat: 29.678722,
@@ -837,7 +815,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-18",
       state: "TX"
     },
-    "53": {
+    "51": {
       name: "Pacific Northwest Fire Conference (Fire Nuggets)",
       color: "#3076bc",
       lat: 47.712639,
@@ -848,7 +826,7 @@ var simplemaps_namap_mapdata={
       state: "WA",
       url: "https://firenuggets.regfox.com/pnwfcvendors2026"
     },
-    "54": {
+    "52": {
       name: "Illinois Firefighters Association Down and Dirty Weekend",
       color: "#3cb54a",
       lat: 40.694412,
@@ -858,7 +836,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-16",
       state: "IL"
     },
-    "55": {
+    "53": {
       name: "Tri-State Emergency Responders Conference",
       color: "#3cb54a",
       lat: 42.498077,
@@ -868,7 +846,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-17",
       state: "IA"
     },
-    "56": {
+    "54": {
       name: "Northeast Iowa Community College Tri-State Emergency Responders Conference",
       color: "#3cb54a",
       lat: 43.447661,
@@ -879,7 +857,7 @@ var simplemaps_namap_mapdata={
       state: "IA",
       url: "https://www.nicc.edu/tri-state-emergency-responders-conference/"
     },
-    "57": {
+    "55": {
       name: "Wildland Fire Canada Conference & Canadian Smoke Forum",
       color: "#3cb54a",
       lat: 52.12879,
@@ -890,7 +868,7 @@ var simplemaps_namap_mapdata={
       state: "SK",
       url: "https://wildlandfirecanada.com/sponsors-exhibitors-2/"
     },
-    "58": {
+    "56": {
       name: "17th International Wildland Fire Safety Summit",
       color: "#3cb54a",
       lat: 51.049031,
@@ -900,7 +878,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-22",
       state: "AB"
     },
-    "59": {
+    "57": {
       name: "Colorado Fire Chiefs Leadership Challenge",
       color: "#3cb54a",
       lat: 39.609066,
@@ -910,7 +888,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-24",
       state: "CO"
     },
-    "60": {
+    "58": {
       name: "Safety & Health Conference (FL)",
       color: "#3cb54a",
       lat: 28.341663,
@@ -920,7 +898,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-21",
       state: "FL"
     },
-    "61": {
+    "59": {
       name: "Southwest Division International Association Annual Conference",
       color: "#3cb54a",
       lat: 36.063341,
@@ -930,7 +908,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-23",
       state: "AR"
     },
-    "62": {
+    "60": {
       name: "Fire & EMS Pro EXPO",
       color: "#3cb54a",
       lat: 41.491797,
@@ -940,7 +918,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-23",
       state: "CT"
     },
-    "63": {
+    "61": {
       name: "FSWO Annual Training Symposium",
       color: "#3cb54a",
       lat: 43.671924,
@@ -950,7 +928,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-23",
       state: "ON"
     },
-    "64": {
+    "62": {
       name: "EMS & Fire Pro Expo",
       color: "#3cb54a",
       lat: 41.491797,
@@ -961,17 +939,7 @@ var simplemaps_namap_mapdata={
       state: "CT",
       url: "https://emspro.org/"
     },
-    "65": {
-      name: "Ancient City Fire Expo",
-      color: "#3cb54a",
-      lat: 29.875792,
-      lng: -81.282959,
-      eventType: "Conference",
-      startDate: "2026-10-26",
-      endDate: "2026-10-28",
-      state: "FL"
-    },
-    "66": {
+    "63": {
       name: "Kansas Fire Chiefs Association Conference",
       color: "#3cb54a",
       lat: 39.175149,
@@ -981,9 +949,9 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-29",
       state: "KS"
     },
-    "67": {
+    "64": {
       name: "NE Association of Fire Chiefs 2026 Expo",
-      color: "#3cb54a",
+      color: "#3076bc",
       lat: 41.491797,
       lng: -72.090387,
       eventType: "Conference",
@@ -991,7 +959,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-30",
       state: "CT"
     },
-    "68": {
+    "65": {
       name: "2026 Instructor Development Conference",
       color: "#3cb54a",
       lat: 40.235149,
@@ -1001,7 +969,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-11-01",
       state: "PA"
     },
-    "69": {
+    "66": {
       name: "Lt. Joseph P. DiBernardo Memorial Training Seminar",
       color: "#3cb54a",
       lat: 40.821499,
@@ -1011,7 +979,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-10-31",
       state: "NY"
     },
-    "70": {
+    "67": {
       name: "Tennessee River Training Weekend",
       color: "#3cb54a",
       lat: 35.224367,
@@ -1021,7 +989,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-11-02",
       state: "TN"
     },
-    "71": {
+    "68": {
       name: "First in Fire Conference - Lecture and HOT Little Rock Arkansas",
       color: "#3076bc",
       lat: 34.714245,
@@ -1032,7 +1000,7 @@ var simplemaps_namap_mapdata={
       state: "AR",
       url: "https://first-in.com/"
     },
-    "72": {
+    "69": {
       name: "For Them Conference",
       color: "#3cb54a",
       lat: 30.080174,
@@ -1042,7 +1010,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-11-08",
       state: "TX"
     },
-    "73": {
+    "70": {
       name: "Carolina Fire Days",
       color: "#3cb54a",
       lat: 35.496929,
@@ -1052,7 +1020,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-11-14",
       state: "NC"
     },
-    "74": {
+    "71": {
       name: "IAFC - Symposium In The Sun - Clearwater Florida",
       color: "#3cb54a",
       lat: 27.978877,
@@ -1062,7 +1030,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-11-15",
       state: "FL"
     },
-    "75": {
+    "72": {
       name: "HFCA - Hawaii Fire Chiefs Association Conference",
       color: "#3cb54a",
       lat: 21.001068,
@@ -1072,7 +1040,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-11-20",
       state: "HI"
     },
-    "76": {
+    "73": {
       name: "Ontario Fire Chiefs Conference",
       color: "#3cb54a",
       lat: 43.085725,
@@ -1082,7 +1050,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-11-20",
       state: "NY"
     },
-    "77": {
+    "74": {
       name: "OFDDA - Oregon Fire District Directors Association",
       color: "#3cb54a",
       lat: 45.994092,
@@ -1092,7 +1060,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-11-21",
       state: "OR"
     },
-    "78": {
+    "75": {
       name: "South Dakota Fire Chiefs Association Conference",
       color: "#3cb54a",
       lat: 44.385072,
@@ -1102,7 +1070,7 @@ var simplemaps_namap_mapdata={
       endDate: "2026-12-06",
       state: "SD"
     },
-    "79": {
+    "76": {
       name: "NDFSIS Instructor Conference",
       color: "#3cb54a",
       lat: 46.805738,
